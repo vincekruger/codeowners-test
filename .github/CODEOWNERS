@@ -10,5 +10,6 @@
 
 # DevOps
 
-/.github/ @vincekruger
+.github/* @vincekruger
+testing/* @vincekruger
 
